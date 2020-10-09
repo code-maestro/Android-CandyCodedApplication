@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +128,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="606" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1602244334772">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="606" y="134" key="#com.intellij.ide.util.MemberChooser/0.0.1603.862@0.0.1603.862" timestamp="1602244334772" />
     <state x="309" y="73" key="SettingsEditor" timestamp="1602244158167">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
