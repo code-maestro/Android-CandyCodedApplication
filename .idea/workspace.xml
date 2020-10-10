@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,21 +46,41 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
-  </component>
+  <component name="ProjectId" id="1igZ5kWBeyS2SLVHmHUTwDslPUJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android JUnit._1_StartTheStoreInformationActivity">
+    <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._1_StartTheStoreInformationActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -113,6 +139,11 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -132,9 +163,29 @@
       <screen x="0" y="0" width="1603" height="862" />
     </state>
     <state x="606" y="134" key="#com.intellij.ide.util.MemberChooser/0.0.1603.862@0.0.1603.862" timestamp="1602244334772" />
-    <state x="309" y="73" key="SettingsEditor" timestamp="1602244158167">
+    <state width="1559" height="400" key="GridCell.Tab.0.bottom" timestamp="1602245740249">
       <screen x="0" y="0" width="1603" height="862" />
     </state>
-    <state x="309" y="73" key="SettingsEditor/0.0.1603.862@0.0.1603.862" timestamp="1602244158167" />
+    <state width="1559" height="400" key="GridCell.Tab.0.bottom/0.0.1603.862@0.0.1603.862" timestamp="1602245740249" />
+    <state width="1559" height="400" key="GridCell.Tab.0.center" timestamp="1602245740248">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1559" height="400" key="GridCell.Tab.0.center/0.0.1603.862@0.0.1603.862" timestamp="1602245740248" />
+    <state width="1559" height="400" key="GridCell.Tab.0.left" timestamp="1602245740248">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1559" height="400" key="GridCell.Tab.0.left/0.0.1603.862@0.0.1603.862" timestamp="1602245740248" />
+    <state width="1559" height="400" key="GridCell.Tab.0.right" timestamp="1602245740249">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state width="1559" height="400" key="GridCell.Tab.0.right/0.0.1603.862@0.0.1603.862" timestamp="1602245740249" />
+    <state x="309" y="73" key="SettingsEditor" timestamp="1602332048653">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="309" y="73" key="SettingsEditor/0.0.1603.862@0.0.1603.862" timestamp="1602332048653" />
+    <state x="319" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1602331234495">
+      <screen x="0" y="0" width="1603" height="862" />
+    </state>
+    <state x="319" y="255" key="com.intellij.ide.util.TipDialog/0.0.1603.862@0.0.1603.862" timestamp="1602331234495" />
   </component>
 </project>
